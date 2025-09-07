@@ -17,6 +17,10 @@ const config = {
             outfit: ['Outfit', 'sans-serif'],
             ovo: ['Ovo', 'serif'],
         },
+        boxShadow: {
+            'black':'4px 4px 0 #000',
+            'white':'4px 4px 0 #fff',
+        },
     },
   },
   plugins: [],
