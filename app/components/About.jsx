@@ -62,6 +62,9 @@ const About = () => {
               </ul>
 
 
+              <p>nscjbcjdbajbcj</p>
+
+
         </div>
       </div>
     </div>
