@@ -1,15 +1,26 @@
 "use client";
+
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
-import { use } from "react";
 import About from "./components/About";
+import Services from "./components/Services.jsx";
+import Works from "./components/Works";
+
 
 export default function Home() {
   return (
     <>
-    <Navbar />
-    <Header />
-    <About />
+     
+      <Navbar />
+      <Header />
+      <About />
+
+      <Services />
+
+      <Works />
+      
+    
+ 
     </>
   );
 }

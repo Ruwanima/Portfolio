@@ -62,7 +62,6 @@ const About = () => {
               </ul>
 
 
-              <p>nscjbcjdbajbcj</p>
 
 
         </div>
@@ -71,4 +70,4 @@ const About = () => {
   )
 }
 
-export default About
+export default About;
